@@ -1,19 +1,23 @@
-# Hello world
+# World
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
 
 ## Description
-introduce this generator to the world
+making a readmefile generator
 
 ## Table of Contents
+* [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
 * [Questions](#questions)
 
+## Installation
+please using 'node index.js' to execute the program
+
 ## Usage
-This generator needs to be installed by node JS
+-you should install npm to your VS code first
 
 ## License 
 Licensed under the MIT License. Copyright © 2021

@@ -1,7 +1,8 @@
 // function to generate markdown for README
 const generateMarkdown = (data) => {
 
-    //License badge handling
+    //🥉License badge
+
     switch (data.license) {
       case 'Apache 2.0':
         licenseBadge = `[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)`;
@@ -31,7 +32,8 @@ const generateMarkdown = (data) => {
         break;
     }
   
-    //Generate table of contents
+    //✨Generate table of contents
+
     let tOC = `\n## Table of Contents\n`
     if (data.install) { tOC += `* [Installation](#installation)\n`; }
     if (data.usage) { tOC += `* [Usage](#usage)\n`; }
@@ -41,7 +43,9 @@ const generateMarkdown = (data) => {
     if (data.credits) { tOC += `* [Credits](#credits)\n`; }
     tOC += `* [Questions](#questions)\n`;
   
-    //Get date for the license copyright
+    
+    
+    //🔐 Get date for the license copyright
     let year = new Date();
   
     /*** README.md Generation ***/

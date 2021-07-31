@@ -5,7 +5,7 @@ const chalk = require('chalk');
 inquirer.registerPrompt('recursive', require('./utils/my-inquirer-recursive.js'));
 const generateMarkdown = require('./utils/generateMarkdown.js');
 
-//Welcome message
+// 🚩Welcome message
 const welcome = [
     {
         type: 'confirm',
@@ -16,24 +16,23 @@ const welcome = [
     },
 ];
 
-//Markdown tips
+// 🚩 Markdown tips
 const letsGo = chalk.greenBright(`\n
-Let's Generate a README!!!
-//~~~~~~~~~~~~~~~~~~~~~~//
+Generator of README
      MD syntax tips
 -------------------------
 Bold    **bold text**
 Italics *italicized text*       
 Links   [title](https://www.example.com)
-Image   ![alt text](image.jpg)
 \n`);
 
-//Success message
+//😎 Success message
+
 const success = chalk.greenBright(`
 Successfully it has been Generated! Check yours at Output:README.md
 `);
 
-//User questions
+//🔑 User questions
 const questions = [
     {
         type: 'input',
@@ -157,14 +156,15 @@ const questions = [
 ];
 
 
-//Function to write README file
+//💻 Function to write README file
 const writeToFile = (fileName, data) => {
     fs.writeFile(fileName, data, (err) =>
         err ? console.error(err) : console.log(success)
     );
 }
 
-//Function to initialize the generator 
+//💻 Function to initialize the generator 
+
 const init = async () => {
     try {
         await inquirer.prompt(welcome);
@@ -176,7 +176,8 @@ const init = async () => {
     }
 }
 
-//Function call to initialize program
+//💻 Function call to initialize program
+
 init();
 
 

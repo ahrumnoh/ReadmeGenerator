@@ -1,4 +1,4 @@
-/*** The following code was for recursive prompts was written bt GitHub user @ahrumnoh and found @ https://github.com/nathanloisel/inquirer-recursive/issues/1#issuecomment-456701056 ***/
+/*** The following code was for recursive prompts was written bt GitHub user @ahrumnoh ***/
 //---------------------------//
 //--------------------------//
 
