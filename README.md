@@ -24,7 +24,7 @@ This automatic generator will let you fly high to make it easy and fun!
 
 
 
-## 😎 What can you add in this program ?
+## 😎 What can you add in this ganerator ?
 
 * Title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
 * This is displayed as the title of the README
