@@ -6,7 +6,8 @@
 
 ## Overview
 
-An software engineer needs to make a porfessional Readmefile. This automatic generator will help you to make it easily 
+An software engineer needs to make a porfessional Readmefile. 
+This automatic generator will let you fly high to make it easy and fun!
 
 
 
@@ -23,7 +24,15 @@ An software engineer needs to make a porfessional Readmefile. This automatic gen
 
 
 
-## 
+## 😎 What can you add in this program ?
+
+* Title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
+* This is displayed as the title of the README
+* Installation instructions, usage information, contribution guidelines, and test instructions
+* Is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests
+* Can choose a license for my application from a list of options
+* GitHub username
+* Email address
 
 
 ❤ Thank you so much for your time :)
