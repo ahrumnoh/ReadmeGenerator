@@ -16,6 +16,7 @@ An software engineer needs to make a porfessional Readmefile. This automatic gen
 
 
 ## 🚩How to execute it? Check the video for instruction
+ * Click the picture below 👇👇👇
 [![Watch the video](https://github.com/ahrumnoh/ReadmeGenerator/blob/main/Image/Check%20the%20video%20NOW%20(1).jpg?raw=true)](https://drive.google.com/file/d/1Poi_Ld4tSZTTYtyCaCZzJoGFGlDOfoK5/view)
 
 
