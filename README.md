@@ -11,7 +11,7 @@ This automatic generator will let you fly high to make it easy and fun!
 
 
 
-## finalized sample for README FILE
+## A finalized sample for README FILE
 ![README FILE](https://github.com/ahrumnoh/ReadmeGenerator/blob/main/Image/2021-08-01%20(2).png?raw=true)
 
 
