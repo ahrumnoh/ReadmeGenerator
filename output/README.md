@@ -1,11 +1,11 @@
-# World
+# Readmefile Generator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
 
 ## Description
-making a readmefile generator
+to make engineers have a perfect automatic READMEFILE Generator
 
 ## Table of Contents
 * [Installation](#installation)
@@ -14,10 +14,10 @@ making a readmefile generator
 * [Questions](#questions)
 
 ## Installation
-please using 'node index.js' to execute the program
+You need to install node installation first before executing the program
 
 ## Usage
--you should install npm to your VS code first
+you should type ' node index.js ' to get started
 
 ## License 
 Licensed under the MIT License. Copyright © 2021
