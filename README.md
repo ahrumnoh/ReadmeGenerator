@@ -6,7 +6,7 @@
 
 ## Overview
 
-An software engineer needs to make a porfessional Readmefile. 
+A software engineer needs to make a porfessional Readmefile. 
 This automatic generator will let you fly high to make it easy and fun!
 
 
